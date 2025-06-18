@@ -8575,7 +8575,7 @@
     "name": "&Prive HD",
     "tvg_id": "0-9-9z5543514",
     "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/360x2032653856754d5af7e9c09e40f5abefa1d739574096",
     "manifest_url": "https://elite-o.vercel.app/api/stream?channel=97",
     "source": "m3u8"
   },
@@ -8716,7 +8716,7 @@
     "source": "m3u8"
   },
   {
-    "name": "Zee Caf\u00c3\u00a9 HD",
+    "name": "Zee Cafe HD",
     "tvg_id": "0-9-zeecafehd",
     "group_title": "J | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",
@@ -8724,10 +8724,10 @@
     "source": "m3u8"
   },
   {
-    "name": "h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png\",Zee Anmol Cinema 2",
+    "name": "Zee Anmol Cinema 2",
     "tvg_id": "0-9-bigganga",
     "group_title": "J | Movies",
-    "logo_url": "https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/360x203b421240eeaf34dd8bae64d0e801a8e2c",
     "manifest_url": "https://elite-o.vercel.app/api/stream?channel=116",
     "source": "m3u8"
   },
@@ -8871,7 +8871,7 @@
     "name": "&flix HD",
     "tvg_id": "0-9-channel_2105335046",
     "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/360x2031324986435",
     "manifest_url": "https://elite-o.vercel.app/api/stream?channel=134",
     "source": "m3u8"
   },
@@ -8924,10 +8924,10 @@
     "source": "m3u8"
   },
   {
-    "name": "&xplorHD",
+    "name": "&xplor HD",
     "tvg_id": "0-9-209",
     "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/360x203918884043",
     "manifest_url": "https://elite-o.vercel.app/api/stream?channel=141",
     "source": "m3u8"
   },
@@ -16907,7 +16907,7 @@
     "name": "&Prive HD",
     "tvg_id": "0-9-9z5543514",
     "group_title": "Zee5 | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5543514/channel_list/360x2032653856754d5af7e9c09e40f5abefa1d739574096",
     "manifest_url": "https://elite-o.vercel.app/api/stream?channel=97",
     "source": "m3u8"
   },
@@ -17056,10 +17056,10 @@
     "source": "m3u8"
   },
   {
-    "name": "h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png\",Zee Anmol Cinema 2",
+    "name": "Zee Anmol Cinema 2",
     "tvg_id": "0-9-bigganga",
     "group_title": "Zee5 | Movies",
-    "logo_url": "https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/360x203b421240eeaf34dd8bae64d0e801a8e2c",
     "manifest_url": "https://elite-o.vercel.app/api/stream?channel=116",
     "source": "m3u8"
   },
@@ -17203,7 +17203,7 @@
     "name": "&flix HD",
     "tvg_id": "0-9-channel_2105335046",
     "group_title": "Zee5 | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/360x2031324986435",
     "manifest_url": "https://elite-o.vercel.app/api/stream?channel=134",
     "source": "m3u8"
   },
@@ -17256,10 +17256,10 @@
     "source": "m3u8"
   },
   {
-    "name": "&xplorHD",
+    "name": "&xplor HD",
     "tvg_id": "0-9-209",
     "group_title": "Zee5 | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/360x203918884043",
     "manifest_url": "https://elite-o.vercel.app/api/stream?channel=141",
     "source": "m3u8"
   },
