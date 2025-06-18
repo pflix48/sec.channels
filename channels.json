@@ -7920,718 +7920,6 @@
     "source": "tataplay"
   },
   {
-    "name": "Aaj Tak",
-    "tvg_id": "0-9-aajtak",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=1",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee News",
-    "tvg_id": "0-9-zeenews",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=2",
-    "source": "m3u8"
-  },
-  {
-    "name": "India Today",
-    "tvg_id": "0-9-indiatoday",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=3",
-    "source": "m3u8"
-  },
-  {
-    "name": "Good News Today",
-    "tvg_id": "0-9-255",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Good News_Today.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=4",
-    "source": "m3u8"
-  },
-  {
-    "name": "&Prive HD",
-    "tvg_id": "0-9-9z5543514",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=5",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Punjab Haryana Himachal Pradesh",
-    "tvg_id": "0-9-zeepunjabharyanahima",
-    "group_title": "J | Punjabi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=6",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Business",
-    "tvg_id": "0-9-zeebusiness",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=7",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee 24 Kalak",
-    "tvg_id": "0-9-zee24kalak",
-    "group_title": "J | Gujarati",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=8",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee 24 Taas",
-    "tvg_id": "0-9-zee24taas",
-    "group_title": "J | Marathi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=9",
-    "source": "m3u8"
-  },
-  {
-    "name": "WION",
-    "tvg_id": "0-9-wion",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/WION.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=10",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Bharat",
-    "tvg_id": "0-9-zeehindustan",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=11",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Bihar Jharkhand",
-    "tvg_id": "0-9-zeebiharjharkhand",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=12",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee 24 Ghanta",
-    "tvg_id": "0-9-24ghantatv",
-    "group_title": "J | Bengali",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=13",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Delhi NCR Haryana",
-    "tvg_id": "0-9-zeekalinganews",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR_Haryana.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=14",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Rajasthan News",
-    "tvg_id": "0-9-zeerajasthannews",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan_News.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=15",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Madhya Pradesh Chhattisgarh",
-    "tvg_id": "0-9-zeemadhyapradeshchat",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Madhya_Pradesh_Chhattisgarh.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=16",
-    "source": "m3u8"
-  },
-  {
-    "name": "Big Magic",
-    "tvg_id": "0-9-bigmagic_1786965389",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=17",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zing",
-    "tvg_id": "0-9-zing",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=18",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee TV HD",
-    "tvg_id": "0-9-zeetvhd",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=19",
-    "source": "m3u8"
-  },
-  {
-    "name": "&TV HD",
-    "tvg_id": "0-9-tvhd_0",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=20",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Marathi HD",
-    "tvg_id": "0-9-zeemarathi",
-    "group_title": "J | Marathi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=21",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Yuva",
-    "tvg_id": "0-9-zeeyuva",
-    "group_title": "J | Marathi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=22",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Caf\u00c3\u00a9 HD",
-    "tvg_id": "0-9-zeecafehd",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=23",
-    "source": "m3u8"
-  },
-  {
-    "name": "h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png\",Zee Anmol Cinema 2",
-    "tvg_id": "0-9-bigganga",
-    "group_title": "J | Movies",
-    "logo_url": "https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=24",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Tamil HD",
-    "tvg_id": "0-9-zeetamil",
-    "group_title": "J | Tamil",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=25",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Telugu HD",
-    "tvg_id": "0-9-zeetelugu",
-    "group_title": "J | Telugu",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=26",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Kannada HD",
-    "tvg_id": "0-9-zeekannada",
-    "group_title": "J | Kannada",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=27",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Keralam HD",
-    "tvg_id": "0-9-129",
-    "group_title": "J | Malayalam",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=28",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Bangla HD",
-    "tvg_id": "0-9-zeebangla",
-    "group_title": "J | Bengali",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=29",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Anmol",
-    "tvg_id": "0-9-zeeanmol",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=30",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Cinema HD",
-    "tvg_id": "0-9-zeecinemahd",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=31",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Cinemalu HD",
-    "tvg_id": "0-9-zeecinemalu",
-    "group_title": "J | Telugu",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=32",
-    "source": "m3u8"
-  },
-  {
-    "name": "&Pictures HD",
-    "tvg_id": "0-9-tvpictureshd",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=33",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Talkies HD",
-    "tvg_id": "0-9-zeetalkies",
-    "group_title": "J | Marathi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=34",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Bangla Cinema",
-    "tvg_id": "0-9-zeebanglacinema",
-    "group_title": "J | Bengali",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=35",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Punjabi",
-    "tvg_id": "0-9-215",
-    "group_title": "J | Punjabi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=36",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Anmol Cinema",
-    "tvg_id": "0-9-zeeanmolcinema",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=37",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Bollywood",
-    "tvg_id": "0-9-zeeclassic",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=38",
-    "source": "m3u8"
-  },
-  {
-    "name": "&Pictures",
-    "tvg_id": "0-9-pictures",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=39",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Cinema",
-    "tvg_id": "0-9-zeecinema",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=40",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Action",
-    "tvg_id": "0-9-zeeaction",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=41",
-    "source": "m3u8"
-  },
-  {
-    "name": "&flix HD",
-    "tvg_id": "0-9-channel_2105335046",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=42",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sanskar TV",
-    "tvg_id": "0-9-channel_1144658965",
-    "group_title": "J | Spiritual",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=43",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee TV",
-    "tvg_id": "0-9-zeetv",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=44",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Salaam",
-    "tvg_id": "0-9-zeesalaam",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=45",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Sarthak",
-    "tvg_id": "0-9-sarthaktv",
-    "group_title": "J | Odia",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=46",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee News Uttar Pradesh Uttrakhand",
-    "tvg_id": "0-9-channel_265145625",
-    "group_title": "J | News",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=47",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Classic",
-    "tvg_id": "0-9-176",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=48",
-    "source": "m3u8"
-  },
-  {
-    "name": "&xplorHD",
-    "tvg_id": "0-9-209",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=49",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Biskope",
-    "tvg_id": "0-9-216",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=50",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Thirai",
-    "tvg_id": "0-9-224",
-    "group_title": "J | Tamil",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=51",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Zest HD",
-    "tvg_id": "0-9-348",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=52",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Picchar",
-    "tvg_id": "0-9-241",
-    "group_title": "J | Kannada",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=53",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Chitramandir",
-    "tvg_id": "0-9-394",
-    "group_title": "J | Marathi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=54",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Kannada",
-    "tvg_id": "0-9-9z5383466",
-    "group_title": "J | Kannada",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=55",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Bangla",
-    "tvg_id": "0-9-9z5383484",
-    "group_title": "J | Bengali",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=56",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Telugu",
-    "tvg_id": "0-9-9z5383485",
-    "group_title": "J | Telugu",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=57",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Marathi",
-    "tvg_id": "0-9-9z5383486",
-    "group_title": "J | Marathi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=58",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Tamil",
-    "tvg_id": "0-9-9z5383487",
-    "group_title": "J | Tamil",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=59",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Cinemalu",
-    "tvg_id": "0-9-9z5383488",
-    "group_title": "J | Telugu",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=60",
-    "source": "m3u8"
-  },
-  {
-    "name": "Aastha Telugu",
-    "tvg_id": "0-9-9z5398768",
-    "group_title": "J | Telugu",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=61",
-    "source": "m3u8"
-  },
-  {
-    "name": "Aastha Tamil",
-    "tvg_id": "0-9-9z5398770",
-    "group_title": "J | Tamil",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=62",
-    "source": "m3u8"
-  },
-  {
-    "name": "Aastha Kannada",
-    "tvg_id": "0-9-9z5398771",
-    "group_title": "J | Kannada",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=63",
-    "source": "m3u8"
-  },
-  {
-    "name": "Aastha Gujarati",
-    "tvg_id": "0-9-9z5398791",
-    "group_title": "J | Gujarati",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=64",
-    "source": "m3u8"
-  },
-  {
-    "name": "Dharm Sandesh",
-    "tvg_id": "0-9-9z5398792",
-    "group_title": "J | Spiritual",
-    "logo_url": "https://akamaividz.zee5.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=65",
-    "source": "m3u8"
-  },
-  {
-    "name": "Aastha Bhajan",
-    "tvg_id": "0-9-9z5398793",
-    "group_title": "J | Spiritual",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=66",
-    "source": "m3u8"
-  },
-  {
-    "name": "Zee Talkies",
-    "tvg_id": "0-9-9z5383489",
-    "group_title": "J | Marathi",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=67",
-    "source": "m3u8"
-  },
-  {
-    "name": "Aastha",
-    "tvg_id": "0-9-9z5398761",
-    "group_title": "J | Spiritual",
-    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=68",
-    "source": "m3u8"
-  },
-  {
-    "name": "SET HD",
-    "tvg_id": "sony-hd",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=69",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony SAB HD",
-    "tvg_id": "sony-sab-hd",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=70",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Marathi",
-    "tvg_id": "sony-marathi",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=71",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Pal",
-    "tvg_id": "sony-pal",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=72",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Aath",
-    "tvg_id": "sony-aath",
-    "group_title": "J | Entertainment",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=73",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Yay",
-    "tvg_id": "sony-yay",
-    "group_title": "J | Kids",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=75",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony MAX HD",
-    "tvg_id": "sony-max-hd",
-    "group_title": "J | Movies",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=78",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony MAX",
-    "tvg_id": "sony-max",
-    "group_title": "J | Movies",
-    "logo_url": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=77",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony MAX 2",
-    "tvg_id": "sony-max-2",
-    "group_title": "J | Movies",
-    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=79",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony WAH",
-    "tvg_id": "sony-wah",
-    "group_title": "J | Movies",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=81",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony PIX HD",
-    "tvg_id": "sony-pix-hd",
-    "group_title": "J | Movies",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=80",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 1",
-    "tvg_id": "sony-ten-1",
-    "group_title": "J | Sports",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=83",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 2",
-    "tvg_id": "sony-ten-2",
-    "group_title": "J | Sports",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=85",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 3",
-    "tvg_id": "sony-ten-3",
-    "group_title": "J | Sports",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=87",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 4",
-    "tvg_id": "sony-ten-4",
-    "group_title": "J | Sports",
-    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=89",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 5",
-    "tvg_id": "sony-ten-5",
-    "group_title": "J | Sports",
-    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=91",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 1 HD",
-    "tvg_id": "sony-ten-1-hd",
-    "group_title": "J | Sports",
-    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=82",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 2 HD",
-    "tvg_id": "sony-ten-2-hd",
-    "group_title": "J | Sports",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=84",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 3 HD",
-    "tvg_id": "sony-ten-3-hd",
-    "group_title": "J | Sports",
-    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=86",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 4 HD",
-    "tvg_id": "sony-ten-4-hd",
-    "group_title": "J | Sports",
-    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=88",
-    "source": "m3u8"
-  },
-  {
-    "name": "Sony Sports Ten 5 HD",
-    "tvg_id": "sony-ten-5-hd",
-    "group_title": "J | Sports",
-    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=90",
-    "source": "m3u8"
-  },
-  {
     "name": "Star Plus HD",
     "tvg_id": "1132",
     "group_title": "J | Entertainment",
@@ -9250,6 +8538,718 @@
     "license_url": "https://elitenew.rm2780856.workers.dev/keys?id=1406",
     "drm_type": "clearkey",
     "source": "jiotv"
+  },
+  {
+    "name": "Aaj Tak",
+    "tvg_id": "0-9-aajtak",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=93",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee News",
+    "tvg_id": "0-9-zeenews",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=94",
+    "source": "m3u8"
+  },
+  {
+    "name": "India Today",
+    "tvg_id": "0-9-indiatoday",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=95",
+    "source": "m3u8"
+  },
+  {
+    "name": "Good News Today",
+    "tvg_id": "0-9-255",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Good News_Today.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=96",
+    "source": "m3u8"
+  },
+  {
+    "name": "&Prive HD",
+    "tvg_id": "0-9-9z5543514",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=97",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Punjab Haryana Himachal Pradesh",
+    "tvg_id": "0-9-zeepunjabharyanahima",
+    "group_title": "J | Punjabi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=98",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Business",
+    "tvg_id": "0-9-zeebusiness",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=99",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee 24 Kalak",
+    "tvg_id": "0-9-zee24kalak",
+    "group_title": "J | Gujarati",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=100",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee 24 Taas",
+    "tvg_id": "0-9-zee24taas",
+    "group_title": "J | Marathi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=101",
+    "source": "m3u8"
+  },
+  {
+    "name": "WION",
+    "tvg_id": "0-9-wion",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/WION.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=102",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Bharat",
+    "tvg_id": "0-9-zeehindustan",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=103",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Bihar Jharkhand",
+    "tvg_id": "0-9-zeebiharjharkhand",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=104",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee 24 Ghanta",
+    "tvg_id": "0-9-24ghantatv",
+    "group_title": "J | Bengali",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=105",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Delhi NCR Haryana",
+    "tvg_id": "0-9-zeekalinganews",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR_Haryana.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=106",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Rajasthan News",
+    "tvg_id": "0-9-zeerajasthannews",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan_News.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=107",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Madhya Pradesh Chhattisgarh",
+    "tvg_id": "0-9-zeemadhyapradeshchat",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Madhya_Pradesh_Chhattisgarh.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=108",
+    "source": "m3u8"
+  },
+  {
+    "name": "Big Magic",
+    "tvg_id": "0-9-bigmagic_1786965389",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=109",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zing",
+    "tvg_id": "0-9-zing",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=110",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee TV HD",
+    "tvg_id": "0-9-zeetvhd",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=111",
+    "source": "m3u8"
+  },
+  {
+    "name": "&TV HD",
+    "tvg_id": "0-9-tvhd_0",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=112",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Marathi HD",
+    "tvg_id": "0-9-zeemarathi",
+    "group_title": "J | Marathi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=113",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Yuva",
+    "tvg_id": "0-9-zeeyuva",
+    "group_title": "J | Marathi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=114",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Caf\u00c3\u00a9 HD",
+    "tvg_id": "0-9-zeecafehd",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=115",
+    "source": "m3u8"
+  },
+  {
+    "name": "h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png\",Zee Anmol Cinema 2",
+    "tvg_id": "0-9-bigganga",
+    "group_title": "J | Movies",
+    "logo_url": "https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=116",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Tamil HD",
+    "tvg_id": "0-9-zeetamil",
+    "group_title": "J | Tamil",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=117",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Telugu HD",
+    "tvg_id": "0-9-zeetelugu",
+    "group_title": "J | Telugu",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=118",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Kannada HD",
+    "tvg_id": "0-9-zeekannada",
+    "group_title": "J | Kannada",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=119",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Keralam HD",
+    "tvg_id": "0-9-129",
+    "group_title": "J | Malayalam",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=120",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Bangla HD",
+    "tvg_id": "0-9-zeebangla",
+    "group_title": "J | Bengali",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=121",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Anmol",
+    "tvg_id": "0-9-zeeanmol",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=122",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Cinema HD",
+    "tvg_id": "0-9-zeecinemahd",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=123",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Cinemalu HD",
+    "tvg_id": "0-9-zeecinemalu",
+    "group_title": "J | Telugu",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=124",
+    "source": "m3u8"
+  },
+  {
+    "name": "&Pictures HD",
+    "tvg_id": "0-9-tvpictureshd",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=125",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Talkies HD",
+    "tvg_id": "0-9-zeetalkies",
+    "group_title": "J | Marathi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=126",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Bangla Cinema",
+    "tvg_id": "0-9-zeebanglacinema",
+    "group_title": "J | Bengali",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=127",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Punjabi",
+    "tvg_id": "0-9-215",
+    "group_title": "J | Punjabi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=128",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Anmol Cinema",
+    "tvg_id": "0-9-zeeanmolcinema",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=129",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Bollywood",
+    "tvg_id": "0-9-zeeclassic",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=130",
+    "source": "m3u8"
+  },
+  {
+    "name": "&Pictures",
+    "tvg_id": "0-9-pictures",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=131",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Cinema",
+    "tvg_id": "0-9-zeecinema",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=132",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Action",
+    "tvg_id": "0-9-zeeaction",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=133",
+    "source": "m3u8"
+  },
+  {
+    "name": "&flix HD",
+    "tvg_id": "0-9-channel_2105335046",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=134",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sanskar TV",
+    "tvg_id": "0-9-channel_1144658965",
+    "group_title": "J | Spiritual",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=135",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee TV",
+    "tvg_id": "0-9-zeetv",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=136",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Salaam",
+    "tvg_id": "0-9-zeesalaam",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=137",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Sarthak",
+    "tvg_id": "0-9-sarthaktv",
+    "group_title": "J | Odia",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=138",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee News Uttar Pradesh Uttrakhand",
+    "tvg_id": "0-9-channel_265145625",
+    "group_title": "J | News",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=139",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Classic",
+    "tvg_id": "0-9-176",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=140",
+    "source": "m3u8"
+  },
+  {
+    "name": "&xplorHD",
+    "tvg_id": "0-9-209",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=141",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Biskope",
+    "tvg_id": "0-9-216",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=142",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Thirai",
+    "tvg_id": "0-9-224",
+    "group_title": "J | Tamil",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=143",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Zest HD",
+    "tvg_id": "0-9-348",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=144",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Picchar",
+    "tvg_id": "0-9-241",
+    "group_title": "J | Kannada",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=145",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Chitramandir",
+    "tvg_id": "0-9-394",
+    "group_title": "J | Marathi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=146",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Kannada",
+    "tvg_id": "0-9-9z5383466",
+    "group_title": "J | Kannada",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=147",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Bangla",
+    "tvg_id": "0-9-9z5383484",
+    "group_title": "J | Bengali",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=148",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Telugu",
+    "tvg_id": "0-9-9z5383485",
+    "group_title": "J | Telugu",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=149",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Marathi",
+    "tvg_id": "0-9-9z5383486",
+    "group_title": "J | Marathi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=150",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Tamil",
+    "tvg_id": "0-9-9z5383487",
+    "group_title": "J | Tamil",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=151",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Cinemalu",
+    "tvg_id": "0-9-9z5383488",
+    "group_title": "J | Telugu",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=152",
+    "source": "m3u8"
+  },
+  {
+    "name": "Aastha Telugu",
+    "tvg_id": "0-9-9z5398768",
+    "group_title": "J | Telugu",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=153",
+    "source": "m3u8"
+  },
+  {
+    "name": "Aastha Tamil",
+    "tvg_id": "0-9-9z5398770",
+    "group_title": "J | Tamil",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=154",
+    "source": "m3u8"
+  },
+  {
+    "name": "Aastha Kannada",
+    "tvg_id": "0-9-9z5398771",
+    "group_title": "J | Kannada",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=155",
+    "source": "m3u8"
+  },
+  {
+    "name": "Aastha Gujarati",
+    "tvg_id": "0-9-9z5398791",
+    "group_title": "J | Gujarati",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=156",
+    "source": "m3u8"
+  },
+  {
+    "name": "Dharm Sandesh",
+    "tvg_id": "0-9-9z5398792",
+    "group_title": "J | Spiritual",
+    "logo_url": "https://akamaividz.zee5.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=157",
+    "source": "m3u8"
+  },
+  {
+    "name": "Aastha Bhajan",
+    "tvg_id": "0-9-9z5398793",
+    "group_title": "J | Spiritual",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=158",
+    "source": "m3u8"
+  },
+  {
+    "name": "Zee Talkies",
+    "tvg_id": "0-9-9z5383489",
+    "group_title": "J | Marathi",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=159",
+    "source": "m3u8"
+  },
+  {
+    "name": "Aastha",
+    "tvg_id": "0-9-9z5398761",
+    "group_title": "J | Spiritual",
+    "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=160",
+    "source": "m3u8"
+  },
+  {
+    "name": "SET HD",
+    "tvg_id": "sony-hd",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=69",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony SAB HD",
+    "tvg_id": "sony-sab-hd",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=70",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Marathi",
+    "tvg_id": "sony-marathi",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=71",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Pal",
+    "tvg_id": "sony-pal",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=72",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Aath",
+    "tvg_id": "sony-aath",
+    "group_title": "J | Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=73",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Yay",
+    "tvg_id": "sony-yay",
+    "group_title": "J | Kids",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=75",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony MAX HD",
+    "tvg_id": "sony-max-hd",
+    "group_title": "J | Movies",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=78",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony MAX",
+    "tvg_id": "sony-max",
+    "group_title": "J | Movies",
+    "logo_url": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=77",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony MAX 2",
+    "tvg_id": "sony-max-2",
+    "group_title": "J | Movies",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=79",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony WAH",
+    "tvg_id": "sony-wah",
+    "group_title": "J | Movies",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=81",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony PIX HD",
+    "tvg_id": "sony-pix-hd",
+    "group_title": "J | Movies",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=80",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 1",
+    "tvg_id": "sony-ten-1",
+    "group_title": "J | Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=83",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 2",
+    "tvg_id": "sony-ten-2",
+    "group_title": "J | Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=85",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 3",
+    "tvg_id": "sony-ten-3",
+    "group_title": "J | Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=87",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 4",
+    "tvg_id": "sony-ten-4",
+    "group_title": "J | Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=89",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 5",
+    "tvg_id": "sony-ten-5",
+    "group_title": "J | Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=91",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 1 HD",
+    "tvg_id": "sony-ten-1-hd",
+    "group_title": "J | Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=82",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 2 HD",
+    "tvg_id": "sony-ten-2-hd",
+    "group_title": "J | Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=84",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 3 HD",
+    "tvg_id": "sony-ten-3-hd",
+    "group_title": "J | Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=86",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 4 HD",
+    "tvg_id": "sony-ten-4-hd",
+    "group_title": "J | Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=88",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 5 HD",
+    "tvg_id": "sony-ten-5-hd",
+    "group_title": "J | Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=90",
+    "source": "m3u8"
   },
   {
     "name": "CNBC Tv18 Prime HD",
@@ -16876,7 +16876,7 @@
     "tvg_id": "0-9-aajtak",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=1",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=93",
     "source": "m3u8"
   },
   {
@@ -16884,7 +16884,7 @@
     "tvg_id": "0-9-zeenews",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=2",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=94",
     "source": "m3u8"
   },
   {
@@ -16892,7 +16892,7 @@
     "tvg_id": "0-9-indiatoday",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=3",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=95",
     "source": "m3u8"
   },
   {
@@ -16900,7 +16900,7 @@
     "tvg_id": "0-9-255",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Good News_Today.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=4",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=96",
     "source": "m3u8"
   },
   {
@@ -16908,7 +16908,7 @@
     "tvg_id": "0-9-9z5543514",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=5",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=97",
     "source": "m3u8"
   },
   {
@@ -16916,7 +16916,7 @@
     "tvg_id": "0-9-zeepunjabharyanahima",
     "group_title": "Zee5 | Punjabi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=6",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=98",
     "source": "m3u8"
   },
   {
@@ -16924,7 +16924,7 @@
     "tvg_id": "0-9-zeebusiness",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=7",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=99",
     "source": "m3u8"
   },
   {
@@ -16932,7 +16932,7 @@
     "tvg_id": "0-9-zee24kalak",
     "group_title": "Zee5 | Gujarati",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=8",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=100",
     "source": "m3u8"
   },
   {
@@ -16940,7 +16940,7 @@
     "tvg_id": "0-9-zee24taas",
     "group_title": "Zee5 | Marathi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=9",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=101",
     "source": "m3u8"
   },
   {
@@ -16948,7 +16948,7 @@
     "tvg_id": "0-9-wion",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/WION.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=10",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=102",
     "source": "m3u8"
   },
   {
@@ -16956,7 +16956,7 @@
     "tvg_id": "0-9-zeehindustan",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=11",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=103",
     "source": "m3u8"
   },
   {
@@ -16964,7 +16964,7 @@
     "tvg_id": "0-9-zeebiharjharkhand",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=12",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=104",
     "source": "m3u8"
   },
   {
@@ -16972,7 +16972,7 @@
     "tvg_id": "0-9-24ghantatv",
     "group_title": "Zee5 | Bengali",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=13",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=105",
     "source": "m3u8"
   },
   {
@@ -16980,7 +16980,7 @@
     "tvg_id": "0-9-zeekalinganews",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR_Haryana.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=14",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=106",
     "source": "m3u8"
   },
   {
@@ -16988,7 +16988,7 @@
     "tvg_id": "0-9-zeerajasthannews",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan_News.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=15",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=107",
     "source": "m3u8"
   },
   {
@@ -16996,7 +16996,7 @@
     "tvg_id": "0-9-zeemadhyapradeshchat",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Madhya_Pradesh_Chhattisgarh.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=16",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=108",
     "source": "m3u8"
   },
   {
@@ -17004,7 +17004,7 @@
     "tvg_id": "0-9-bigmagic_1786965389",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=17",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=109",
     "source": "m3u8"
   },
   {
@@ -17012,7 +17012,7 @@
     "tvg_id": "0-9-zing",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=18",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=110",
     "source": "m3u8"
   },
   {
@@ -17020,7 +17020,7 @@
     "tvg_id": "0-9-zeetvhd",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=19",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=111",
     "source": "m3u8"
   },
   {
@@ -17028,7 +17028,7 @@
     "tvg_id": "0-9-tvhd_0",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=20",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=112",
     "source": "m3u8"
   },
   {
@@ -17036,7 +17036,7 @@
     "tvg_id": "0-9-zeemarathi",
     "group_title": "Zee5 | Marathi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=21",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=113",
     "source": "m3u8"
   },
   {
@@ -17044,7 +17044,7 @@
     "tvg_id": "0-9-zeeyuva",
     "group_title": "Zee5 | Marathi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=22",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=114",
     "source": "m3u8"
   },
   {
@@ -17052,7 +17052,7 @@
     "tvg_id": "0-9-zeecafehd",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=23",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=115",
     "source": "m3u8"
   },
   {
@@ -17060,7 +17060,7 @@
     "tvg_id": "0-9-bigganga",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=24",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=116",
     "source": "m3u8"
   },
   {
@@ -17068,7 +17068,7 @@
     "tvg_id": "0-9-zeetamil",
     "group_title": "Zee5 | Tamil",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=25",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=117",
     "source": "m3u8"
   },
   {
@@ -17076,7 +17076,7 @@
     "tvg_id": "0-9-zeetelugu",
     "group_title": "Zee5 | Telugu",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=26",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=118",
     "source": "m3u8"
   },
   {
@@ -17084,7 +17084,7 @@
     "tvg_id": "0-9-zeekannada",
     "group_title": "Zee5 | Kannada",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=27",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=119",
     "source": "m3u8"
   },
   {
@@ -17092,7 +17092,7 @@
     "tvg_id": "0-9-129",
     "group_title": "Zee5 | Malayalam",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=28",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=120",
     "source": "m3u8"
   },
   {
@@ -17100,7 +17100,7 @@
     "tvg_id": "0-9-zeebangla",
     "group_title": "Zee5 | Bengali",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=29",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=121",
     "source": "m3u8"
   },
   {
@@ -17108,7 +17108,7 @@
     "tvg_id": "0-9-zeeanmol",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=30",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=122",
     "source": "m3u8"
   },
   {
@@ -17116,7 +17116,7 @@
     "tvg_id": "0-9-zeecinemahd",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=31",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=123",
     "source": "m3u8"
   },
   {
@@ -17124,7 +17124,7 @@
     "tvg_id": "0-9-zeecinemalu",
     "group_title": "Zee5 | Telugu",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=32",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=124",
     "source": "m3u8"
   },
   {
@@ -17132,7 +17132,7 @@
     "tvg_id": "0-9-tvpictureshd",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=33",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=125",
     "source": "m3u8"
   },
   {
@@ -17140,7 +17140,7 @@
     "tvg_id": "0-9-zeetalkies",
     "group_title": "Zee5 | Marathi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=34",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=126",
     "source": "m3u8"
   },
   {
@@ -17148,7 +17148,7 @@
     "tvg_id": "0-9-zeebanglacinema",
     "group_title": "Zee5 | Bengali",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=35",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=127",
     "source": "m3u8"
   },
   {
@@ -17156,7 +17156,7 @@
     "tvg_id": "0-9-215",
     "group_title": "Zee5 | Punjabi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=36",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=128",
     "source": "m3u8"
   },
   {
@@ -17164,7 +17164,7 @@
     "tvg_id": "0-9-zeeanmolcinema",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=37",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=129",
     "source": "m3u8"
   },
   {
@@ -17172,7 +17172,7 @@
     "tvg_id": "0-9-zeeclassic",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=38",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=130",
     "source": "m3u8"
   },
   {
@@ -17180,7 +17180,7 @@
     "tvg_id": "0-9-pictures",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=39",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=131",
     "source": "m3u8"
   },
   {
@@ -17188,7 +17188,7 @@
     "tvg_id": "0-9-zeecinema",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=40",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=132",
     "source": "m3u8"
   },
   {
@@ -17196,7 +17196,7 @@
     "tvg_id": "0-9-zeeaction",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=41",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=133",
     "source": "m3u8"
   },
   {
@@ -17204,7 +17204,7 @@
     "tvg_id": "0-9-channel_2105335046",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=42",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=134",
     "source": "m3u8"
   },
   {
@@ -17212,7 +17212,7 @@
     "tvg_id": "0-9-channel_1144658965",
     "group_title": "Zee5 | Spiritual",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=43",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=135",
     "source": "m3u8"
   },
   {
@@ -17220,7 +17220,7 @@
     "tvg_id": "0-9-zeetv",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=44",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=136",
     "source": "m3u8"
   },
   {
@@ -17228,7 +17228,7 @@
     "tvg_id": "0-9-zeesalaam",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=45",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=137",
     "source": "m3u8"
   },
   {
@@ -17236,7 +17236,7 @@
     "tvg_id": "0-9-sarthaktv",
     "group_title": "Zee5 | Odia",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=46",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=138",
     "source": "m3u8"
   },
   {
@@ -17244,7 +17244,7 @@
     "tvg_id": "0-9-channel_265145625",
     "group_title": "Zee5 | News",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=47",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=139",
     "source": "m3u8"
   },
   {
@@ -17252,7 +17252,7 @@
     "tvg_id": "0-9-176",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=48",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=140",
     "source": "m3u8"
   },
   {
@@ -17260,7 +17260,7 @@
     "tvg_id": "0-9-209",
     "group_title": "Zee5 | Movies",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=49",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=141",
     "source": "m3u8"
   },
   {
@@ -17268,7 +17268,7 @@
     "tvg_id": "0-9-216",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=50",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=142",
     "source": "m3u8"
   },
   {
@@ -17276,7 +17276,7 @@
     "tvg_id": "0-9-224",
     "group_title": "Zee5 | Tamil",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=51",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=143",
     "source": "m3u8"
   },
   {
@@ -17284,7 +17284,7 @@
     "tvg_id": "0-9-348",
     "group_title": "Zee5 | Entertainment",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=52",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=144",
     "source": "m3u8"
   },
   {
@@ -17292,7 +17292,7 @@
     "tvg_id": "0-9-241",
     "group_title": "Zee5 | Kannada",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=53",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=145",
     "source": "m3u8"
   },
   {
@@ -17300,7 +17300,7 @@
     "tvg_id": "0-9-394",
     "group_title": "Zee5 | Marathi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=54",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=146",
     "source": "m3u8"
   },
   {
@@ -17308,7 +17308,7 @@
     "tvg_id": "0-9-9z5383466",
     "group_title": "Zee5 | Kannada",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=55",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=147",
     "source": "m3u8"
   },
   {
@@ -17316,7 +17316,7 @@
     "tvg_id": "0-9-9z5383484",
     "group_title": "Zee5 | Bengali",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=56",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=148",
     "source": "m3u8"
   },
   {
@@ -17324,7 +17324,7 @@
     "tvg_id": "0-9-9z5383485",
     "group_title": "Zee5 | Telugu",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=57",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=149",
     "source": "m3u8"
   },
   {
@@ -17332,7 +17332,7 @@
     "tvg_id": "0-9-9z5383486",
     "group_title": "Zee5 | Marathi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=58",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=150",
     "source": "m3u8"
   },
   {
@@ -17340,7 +17340,7 @@
     "tvg_id": "0-9-9z5383487",
     "group_title": "Zee5 | Tamil",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=59",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=151",
     "source": "m3u8"
   },
   {
@@ -17348,7 +17348,7 @@
     "tvg_id": "0-9-9z5383488",
     "group_title": "Zee5 | Telugu",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=60",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=152",
     "source": "m3u8"
   },
   {
@@ -17356,7 +17356,7 @@
     "tvg_id": "0-9-9z5398768",
     "group_title": "Zee5 | Telugu",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=61",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=153",
     "source": "m3u8"
   },
   {
@@ -17364,7 +17364,7 @@
     "tvg_id": "0-9-9z5398770",
     "group_title": "Zee5 | Tamil",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=62",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=154",
     "source": "m3u8"
   },
   {
@@ -17372,7 +17372,7 @@
     "tvg_id": "0-9-9z5398771",
     "group_title": "Zee5 | Kannada",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=63",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=155",
     "source": "m3u8"
   },
   {
@@ -17380,7 +17380,7 @@
     "tvg_id": "0-9-9z5398791",
     "group_title": "Zee5 | Gujarati",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=64",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=156",
     "source": "m3u8"
   },
   {
@@ -17388,7 +17388,7 @@
     "tvg_id": "0-9-9z5398792",
     "group_title": "Zee5 | Spiritual",
     "logo_url": "https://akamaividz.zee5.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=65",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=157",
     "source": "m3u8"
   },
   {
@@ -17396,7 +17396,7 @@
     "tvg_id": "0-9-9z5398793",
     "group_title": "Zee5 | Spiritual",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=66",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=158",
     "source": "m3u8"
   },
   {
@@ -17404,7 +17404,7 @@
     "tvg_id": "0-9-9z5383489",
     "group_title": "Zee5 | Marathi",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=67",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=159",
     "source": "m3u8"
   },
   {
@@ -17412,7 +17412,7 @@
     "tvg_id": "0-9-9z5398761",
     "group_title": "Zee5 | Spiritual",
     "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",
-    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=68",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=160",
     "source": "m3u8"
   },
   {
