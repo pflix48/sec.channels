@@ -16158,5 +16158,175 @@
     "license_url": "https://dishsun.vercel.app/api/keys?channel=1",
     "drm_type": "clearkey",
     "source": "jiotv"
+  },
+  [
+  {
+    "name": "SET HD",
+    "tvg_id": "sony-hd",
+    "group_title": "J 💔 Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=69",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony SAB HD",
+    "tvg_id": "sony-sab-hd",
+    "group_title": "J 💔 Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=70",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Marathi",
+    "tvg_id": "sony-marathi",
+    "group_title": "J 💔 Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=71",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Pal",
+    "tvg_id": "sony-pal",
+    "group_title": "J 💔 Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=72",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Aath",
+    "tvg_id": "sony-aath",
+    "group_title": "J 💔 Entertainment",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=73",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Yay",
+    "tvg_id": "sony-yay",
+    "group_title": "J 💔 Kids",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=75",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony MAX HD",
+    "tvg_id": "sony-max-hd",
+    "group_title": "J 💔 Movies",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=78",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony MAX",
+    "tvg_id": "sony-max",
+    "group_title": "J 💔 Movies",
+    "logo_url": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=77",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony MAX 2",
+    "tvg_id": "sony-max-2",
+    "group_title": "J 💔 Movies",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=79",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony WAH",
+    "tvg_id": "sony-wah",
+    "group_title": "J 💔 Movies",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=81",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony PIX HD",
+    "tvg_id": "sony-pix-hd",
+    "group_title": "J 💔 Movies",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=80",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 1",
+    "tvg_id": "sony-ten-1",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=83",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 2",
+    "tvg_id": "sony-ten-2",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=85",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 3",
+    "tvg_id": "sony-ten-3",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=87",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 4",
+    "tvg_id": "sony-ten-4",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=89",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 5",
+    "tvg_id": "sony-ten-5",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=91",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 1 HD",
+    "tvg_id": "sony-ten-1-hd",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=82",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 2 HD",
+    "tvg_id": "sony-ten-2-hd",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=84",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 3 HD",
+    "tvg_id": "sony-ten-3-hd",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=86",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 4 HD",
+    "tvg_id": "sony-ten-4-hd",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=88",
+    "source": "m3u8"
+  },
+  {
+    "name": "Sony Sports Ten 5 HD",
+    "tvg_id": "sony-ten-5-hd",
+    "group_title": "J 💔 Sports",
+    "logo_url": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "manifest_url": "https://elite-o.vercel.app/api/stream?channel=90",
+    "source": "m3u8"
   }
+]
 ]
