@@ -15565,7 +15565,7 @@
     "group_title": "Dish TV | Entertainment",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=37",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=37",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=37",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15575,7 +15575,7 @@
     "group_title": "Dish TV | Entertainment",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=38",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=38",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=38",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15585,7 +15585,7 @@
     "group_title": "Dish TV | Entertainment",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=39",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=39",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=39",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15595,7 +15595,7 @@
     "group_title": "Dish TV | Music",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=41",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=41",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=41",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15605,7 +15605,7 @@
     "group_title": "Dish TV | Movies",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=42",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=42",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=42",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15615,7 +15615,7 @@
     "group_title": "Dish TV | Movies",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=43",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=43",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=43",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15625,7 +15625,7 @@
     "group_title": "Dish TV | Movies",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=44",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=44",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=44",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15635,7 +15635,7 @@
     "group_title": "Dish TV | Movies",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=45",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=45",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=45",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15645,7 +15645,7 @@
     "group_title": "Dish TV | News",
     "logo_url": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=46",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=46",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=46",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15655,7 +15655,7 @@
     "group_title": "Dish TV | News",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=47",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=47",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=47",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15665,7 +15665,7 @@
     "group_title": "Dish TV | News",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=48",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=48",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=48",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15675,7 +15675,7 @@
     "group_title": "Dish TV | Regional",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=49",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=49",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=49",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15685,7 +15685,7 @@
     "group_title": "Dish TV | Regional",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=50",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=50",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=50",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15695,7 +15695,7 @@
     "group_title": "Dish TV | Regional",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=51",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=51",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=51",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15705,7 +15705,7 @@
     "group_title": "Dish TV | Regional",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=52",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=52",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=52",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15715,7 +15715,7 @@
     "group_title": "Dish TV | Regional",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=53",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=53",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=53",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15725,7 +15725,7 @@
     "group_title": "Dish TV | Regional",
     "logo_url": "https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=54",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=54",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=54",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15735,7 +15735,7 @@
     "group_title": "Dish TV | Movies",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=55",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=55",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=55",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15745,7 +15745,7 @@
     "group_title": "Dish TV | Movies",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=56",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=56",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=56",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15755,7 +15755,7 @@
     "group_title": "Dish TV | Kids",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=57",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=57",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=57",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15765,7 +15765,7 @@
     "group_title": "Dish TV | Education",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=58",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=58",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=58",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15775,7 +15775,7 @@
     "group_title": "Dish TV | Education",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=59",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=59",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=59",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15785,7 +15785,7 @@
     "group_title": "Dish TV | Education",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=60",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=60",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=60",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15795,7 +15795,7 @@
     "group_title": "Dish TV | Education",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=61",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=61",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=61",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15805,7 +15805,7 @@
     "group_title": "Dish TV | Lifestyle",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=62",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=62",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=62",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15815,7 +15815,7 @@
     "group_title": "Dish TV | Lifestyle",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=63",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=63",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=63",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15825,7 +15825,7 @@
     "group_title": "Dish TV | Entertainment",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=64",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=64",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=64",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15835,7 +15835,7 @@
     "group_title": "Dish TV | Entertainment",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=65",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=65",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=65",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15845,7 +15845,7 @@
     "group_title": "Dish TV | Entertainment",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=66",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=66",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=66",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15855,7 +15855,7 @@
     "group_title": "Dish TV | Entertainment",
     "logo_url": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=67",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=67",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=67",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15865,7 +15865,7 @@
     "group_title": "SUNNXT | Tamil",
     "logo_url": "https://sund-images.sunnxt.com/194404/200x200_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=8",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=8",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=8",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15875,7 +15875,7 @@
     "group_title": "SUNNXT | Tamil",
     "logo_url": "https://sund-images.sunnxt.com/194409/200x200_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=9",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=9",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=9",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15885,7 +15885,7 @@
     "group_title": "SUNNXT | Tamil",
     "logo_url": "https://sund-images.sunnxt.com/194405/200x200_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=10",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=10",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=10",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15895,7 +15895,7 @@
     "group_title": "SUNNXT | Tamil",
     "logo_url": "https://sund-images.sunnxt.com/194406/200x200_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=5",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=5",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=5",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15905,7 +15905,7 @@
     "group_title": "SUNNXT | Tamil",
     "logo_url": "https://sund-images.sunnxt.com/194410/200x200_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=6",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=6",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=6",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15915,7 +15915,7 @@
     "group_title": "SUNNXT | Tamil",
     "logo_url": "https://sund-images.sunnxt.com/194391/200x200_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=7",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=7",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=7",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15925,7 +15925,7 @@
     "group_title": "SUNNXT | Tamil",
     "logo_url": "https://sund-images.sunnxt.com/194407/200x200_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=29",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=29",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=29",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15935,7 +15935,7 @@
     "group_title": "SUNNXT | Malayalam",
     "logo_url": "https://sund-images.sunnxt.com/194398/200x200_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=12",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=12",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=12",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15945,7 +15945,7 @@
     "group_title": "SUNNXT | Malayalam",
     "logo_url": "https://sund-images.sunnxt.com/194397/200x200_SuryaTVHD_194397_4c99c17b-92d4-49be-a490-b5958067190a.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=11",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=11",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=11",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15955,7 +15955,7 @@
     "group_title": "SUNNXT | Malayalam",
     "logo_url": "https://sund-images.sunnxt.com/194385/200x200_SuryaMovies_194385_0a1fbf90-a86a-4580-bdd8-36c6d1826c46.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=13",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=13",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=13",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15965,7 +15965,7 @@
     "group_title": "SUNNXT | Malayalam",
     "logo_url": "https://sund-images.sunnxt.com/194338/200x200_SuryaMusic_194338_8c3cb980-e460-478e-9b60-18b5550a2596.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=14",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=14",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=14",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15975,7 +15975,7 @@
     "group_title": "SUNNXT | Malayalam",
     "logo_url": "https://sund-images.sunnxt.com/193251/200x200_SuryaComedy_193251_1c2fd207-acad-4096-9bc4-d207375ae0af.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=15",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=15",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=15",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15985,7 +15985,7 @@
     "group_title": "SUNNXT | Malayalam",
     "logo_url": "https://sund-images.sunnxt.com/194348/200x200_KochuTV_194348_f8187f4e-60c3-4727-9cdf-ecac24bff645.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=32",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=32",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=32",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -15995,7 +15995,7 @@
     "group_title": "SUNNXT | Marathi",
     "logo_url": "https://sund-images.sunnxt.com/194387/200x200_SunMarathi_194387_70b805b7-4686-49a4-8617-f5abd975b3fe.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=4",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=4",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=4",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16005,7 +16005,7 @@
     "group_title": "SUNNXT | Kannada",
     "logo_url": "https://sund-images.sunnxt.com/193239/200x200_UdayaTV_193239_ec435a3b-aad0-44e1-9c70-fc572199add9.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=17",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=17",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=17",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16015,7 +16015,7 @@
     "group_title": "SUNNXT | Kannada",
     "logo_url": "https://sund-images.sunnxt.com/194399/200x200_UdayaTVHD_194399_70d9e991-2ea2-4f5a-89b0-13489fe3a482.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=16",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=16",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=16",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16025,7 +16025,7 @@
     "group_title": "SUNNXT | Kannada",
     "logo_url": "https://sund-images.sunnxt.com/194386/200x200_UdayaMovies_194386_b30f865a-0108-4c83-875c-cdf29e952582.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=18",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=18",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=18",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16035,7 +16035,7 @@
     "group_title": "SUNNXT | Kannada",
     "logo_url": "https://sund-images.sunnxt.com/194401/200x200_UdayaMusic_194401_a075b7ca-6045-482a-90c3-a544cf6c3647.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=19",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=19",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=19",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16045,7 +16045,7 @@
     "group_title": "SUNNXT | Kannada",
     "logo_url": "https://sund-images.sunnxt.com/194400/200x200_UdayaComedy_194400_3f736966-dccc-4594-94cd-62e18c85d066.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=20",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=20",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=20",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16055,7 +16055,7 @@
     "group_title": "SUNNXT | Kannada",
     "logo_url": "https://sund-images.sunnxt.com/194347/200x200_ChintuTV_194347_59b6772c-5303-4eb8-9538-2b99f3956eed.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=33",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=33",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=33",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16065,7 +16065,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/194396/200x200_GeminiTV_194396_068bbb03-8548-4cff-af0b-556f5a2e2128.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=21",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=21",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=21",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16075,7 +16075,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/194392/200x200_GeminiTVHD_194392_0a146256-5869-40c5-89de-2fbb9ad6b0ce.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=22",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=22",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=22",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16085,7 +16085,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/194384/200x200_GeminiMovies_194384_abbba9d4-509e-46d5-8808-59efe178a4c2.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=24",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=24",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=24",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16095,7 +16095,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/192537/200x200_GeminiMoviesHD_192537_b5634337-a7cf-4e44-9643-8df747dde8ed.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=23",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=23",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=23",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16105,7 +16105,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/194393/200x200_GeminiMusicHD_194393_38918c7e-413e-46a0-bae9-4b3b766fe6d7.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=25",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=25",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=25",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16115,7 +16115,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/194395/200x200_GeminiMusic_194395_9b2cc3b0-9732-4bf8-9efc-fed04d9bc9df.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=26",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=26",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=26",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16125,7 +16125,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/194394/200x200_GeminiComedy_194394_0fe7c915-5f33-4c6f-909b-3d8d45f92f67.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=28",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=28",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=28",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16135,7 +16135,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/194337/200x200_GeminiLife_194337_e1145455-d580-4b95-8f35-73e48e199533.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=27",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=27",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=27",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16145,7 +16145,7 @@
     "group_title": "SUNNXT | Telugu",
     "logo_url": "https://sund-images.sunnxt.com/194346/200x200_KushiTV_194346_21645eb7-43c4-4721-89bf-b2658d856251.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=30",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=30",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=30",
     "drm_type": "clearkey",
     "source": "jiotv"
   },
@@ -16155,7 +16155,7 @@
     "group_title": "SUNNXT | Bengali",
     "logo_url": "https://sund-images.sunnxt.com/194388/200x200_SunBangla_194388_9c4b5c51-1554-4507-83a8-7b54f31a8967.png",
     "manifest_url": "https://dishsun.vercel.app/api/stream?channel=1",
-    "license_url": "https://dishsun.vercel.app/api/key?channel=1",
+    "license_url": "https://dishsun.vercel.app/api/keys?channel=1",
     "drm_type": "clearkey",
     "source": "jiotv"
   }
